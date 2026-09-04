@@ -4,5 +4,6 @@ package_name: lf
 github_repo: gokcehan/lf
 artifact_format: tar.gz
 description: "Terminal file manager"
+license: MIT
 
 # Build for all Debian suites and all supported architectures.
