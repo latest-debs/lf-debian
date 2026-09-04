@@ -1,0 +1,8 @@
+# Package definition for lf
+
+package_name: lf
+github_repo: gokcehan/lf
+artifact_format: tar.gz
+description: "Terminal file manager"
+
+# Build for all Debian suites and all supported architectures.
