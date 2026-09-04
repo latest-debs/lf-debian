@@ -75,7 +75,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build lf
-        uses: ranjithrajv/debian-multiarch-builder@f0645c5 # v.0.1a27
+        uses: ranjithrajv/debian-multiarch-builder@b886282 # v.0.1a27
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
